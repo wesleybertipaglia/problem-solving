@@ -1,3 +1,5 @@
+package java;
+
 /**
  * Platform: {platform}
  * Problem: {problem_name}
@@ -11,7 +13,7 @@
  * - Space complexity: {space_complexity}
  */
 
-public class Solution {
+public class template {
     public static void main(String[] args) {
     }
 }
