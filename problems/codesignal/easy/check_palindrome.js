@@ -1,12 +1,12 @@
 /*
-    Platform: CodeSignal
-    Problem: Check Palindrome
-    Link: https://app.codesignal.com/arcade/intro/level-1/s5PbmwxfECC52PWyQ
+    platform: CodeSignal
+    title: Check Palindrome
+    url: https://app.codesignal.com/arcade/intro/level-1/s5PbmwxfECC52PWyQ
 
-    Description:
+    description:
     Given the string, check if it is a palindrome.
     
-    Example:
+    example:
     For inputString = "aabaa", the output should be
     solution(inputString) = true;
     
@@ -16,7 +16,7 @@
     For inputString = "a", the output should be
     solution(inputString) = true.
 
-    Constraints:
+    constraints:
     - [execution time limit] 4 seconds (js)
     - [memory limit] 1 GB
     - [input] string inputString, a non-empty string consisting of lowercase characters
